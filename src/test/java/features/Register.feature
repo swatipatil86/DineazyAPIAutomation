@@ -6,4 +6,4 @@ Feature: Dineazy API Suite:Register
 
     Examples:
       |firstName|lastName|email                   |password     |phone            |
-      |"Swati"  |"Patil" |"swati.p@itprofound.com"|"Anish##0104"| "7633539319"    |
+      |"Swati"  |"Patil" |"swati.p@itprofoundGit add QA_Divya.com"|"Anish##0104"| "7633539319"    |
